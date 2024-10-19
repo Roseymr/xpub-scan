@@ -44,7 +44,7 @@
     "bignumber.js": "9.1.0",
     "bip32": "3.1.0",
     "bitcoinjs-lib": "6.0.2",
-    "bitcore-lib-cash": "8.25.40",
+    "bitcore-lib-cash": "10.0.28",
     "bs58check": "2.1.2",
     "chalk": "4.1.2",
     "check-outdated": "2.11.0",
